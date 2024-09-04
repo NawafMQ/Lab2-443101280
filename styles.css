@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: darkslategrey;
+}
+h1{
+    color: brown;
+}
+p{
+    margin-bottom: 20px;
+    padding: 10px;
+}
